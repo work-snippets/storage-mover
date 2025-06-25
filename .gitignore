@@ -1,0 +1,14 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+.env
+.env.*
+*.env
+.envrc
+
+# VSCode settings
+.vscode/
+
+# Virtual environments
+env/
+venv/
